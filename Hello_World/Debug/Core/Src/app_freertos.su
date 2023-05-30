@@ -1,0 +1,3 @@
+../Core/Src/app_freertos.c:70:6:MX_FREERTOS_Init	72	static
+../Core/Src/app_freertos.c:123:6:StartTask01	16	static
+../Core/Src/app_freertos.c:164:6:StartTask02	16	static
